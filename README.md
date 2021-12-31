@@ -10,6 +10,17 @@
 - 출발점, 도착점 검색
 - 애니메이션으로 경로 확인
 
+## Usage
+```python
+$ pip install django
+$ python manage.py migrate
+$ python floor1.py
+$ python floor2.py
+$ python floor3.py
+$ python manage.py makemigrations
+$ python manage.py runserver
+```
+
 ## Videos
 ![ezgif com-gif-maker 오후 6 32 28](https://user-images.githubusercontent.com/43159295/147839472-9fce1c0e-0f10-44a7-9877-e092b70e2365.gif)
 
