@@ -21,7 +21,7 @@ $ python manage.py makemigrations
 $ python manage.py runserver
 ```
 
-## Videos
+## ScreenShots
 ![ezgif com-gif-maker 오후 6 32 28](https://user-images.githubusercontent.com/43159295/147839472-9fce1c0e-0f10-44a7-9877-e092b70e2365.gif)
 
 
