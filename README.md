@@ -25,6 +25,6 @@ $ python manage.py runserver
 ![ezgif com-gif-maker 오후 6 32 28](https://user-images.githubusercontent.com/43159295/147839472-9fce1c0e-0f10-44a7-9877-e092b70e2365.gif)
 
 
-### Author
+## Author
 - 충북대학교 멋쟁이사자처럼 8기
 - [parksanghyup](https://github.com/parksanghyup),  [HAMDONGHO](https://github.com/HAMDONGHO),  [yanJuicy](https://github.com/yanJuicy)
